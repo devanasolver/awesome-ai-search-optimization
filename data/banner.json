@@ -1,0 +1,58 @@
+{
+ "tile_words": [
+  "AEO",
+  "GEO",
+  "LLMS.TXT",
+  "SCHEMA",
+  "CITED",
+  "CRAWLERS",
+  "AI SEARCH",
+  "ROBOTS.TXT",
+  "JSON-LD",
+  "ANSWER ENGINE",
+  "VISIBILITY",
+  "MCP",
+  "SITEMAP",
+  "E-E-A-T",
+  "PROMPTS"
+ ],
+ "gradient": [
+  [
+   0,
+   120,
+   90
+  ],
+  [
+   210,
+   90,
+   40
+  ],
+  [
+   200,
+   60,
+   150
+  ]
+ ],
+ "title": [
+  "AI Search",
+  "Optimization"
+ ],
+ "cta1": "CLICK HERE TO CHECK YOUR SITE FREE",
+ "cta2": "WITH",
+ "brand": "AIRankWP",
+ "brand_color": [
+  70,
+  60,
+  200
+ ],
+ "foot": "Free AI-search audit at airankwp.com  |  Logos belong to their owners; not affiliated",
+ "logos": [
+  "openai",
+  "claude",
+  "perplexity",
+  "gemini",
+  "copilot",
+  "grok"
+ ],
+ "logo_caption": "AI engines your site should show up in"
+}

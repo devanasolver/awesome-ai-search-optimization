@@ -1,6 +1,19 @@
-<p align="center"><img src="assets/banner.png" alt="Awesome AI Search Optimization: open-source GitHub tools for AI SEO, AEO and GEO" width="100%"></p>
+<h1 align="center">Awesome AI Search Optimization</h1>
 
-# Awesome AI Search Optimization [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center"><a href="https://airankwp.com"><img src="assets/banner.png" alt="Awesome AI Search Optimization. Click here to check your site free with AIRankWP." width="100%"></a></p>
+
+<p align="center">
+<a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen" alt="PRs welcome">
+<img src="https://img.shields.io/badge/license-CC0--1.0-blue" alt="License CC0 1.0">
+<a href="https://github.com/devanasolver/awesome-ai-search-optimization/commits/main"><img src="https://img.shields.io/github/last-commit/devanasolver/awesome-ai-search-optimization" alt="Last commit"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/devanasolver"><img src="https://img.shields.io/badge/Follow-@devanasolver-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"></a>
+<a href="https://github.com/devanasolver/awesome-ai-search-optimization/stargazers"><img src="https://img.shields.io/github/stars/devanasolver/awesome-ai-search-optimization?style=for-the-badge&logo=github&label=Star%20this%20list" alt="Star this list"></a>
+<a href="https://airankwp.com"><img src="https://img.shields.io/badge/Free%20AI%20audit-airankwp.com-4638c8?style=for-the-badge" alt="Free AI audit at airankwp.com"></a>
+</p>
 
 > Open-source GitHub repos for AI SEO, AEO and GEO: making your site visible to ChatGPT, Perplexity, Claude, Gemini and Google AI Overviews.
 

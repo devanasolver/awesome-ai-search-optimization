@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- New banner with logos of AI engines (assets/logos), clickable AIRankWP link, badges and follow buttons.
+
 - Added README banner and social preview image (scripts/make_banner.py).
 
 ## 2026-10-17
