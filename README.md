@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.png" alt="Awesome AI Search Optimization: open-source GitHub tools for AI SEO, AEO and GEO" width="100%"></p>
+
 # Awesome AI Search Optimization [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Open-source GitHub repos for AI SEO, AEO and GEO: making your site visible to ChatGPT, Perplexity, Claude, Gemini and Google AI Overviews.
