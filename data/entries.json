@@ -1,0 +1,482 @@
+[
+  {
+    "repo": "Auriti-Labs/geo-optimizer-skill",
+    "category": "audit",
+    "description": "Checks if AI engines can cite your site, then helps you fix it. CLI, Python and MCP.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "jianruntech/geo-score",
+    "category": "audit",
+    "description": "Gives your site a 0-100 AI-readiness score. Can also track citations weekly with your own API keys. CLI, GitHub Action, MCP.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "OranAi-Ltd/orangeo-ai-visibility-skill",
+    "category": "audit",
+    "description": "Agent skill that checks robots.txt, llms.txt, schema and citation signals, and finds gaps against competitors.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-06-09"
+  },
+  {
+    "repo": "puneetindersingh/open-seo-crawler",
+    "category": "audit",
+    "description": "Self-hosted crawler for technical SEO. Also checks that Googlebot and AI crawlers (GPTBot, PerplexityBot) see the same page.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "spronta/crawlie",
+    "category": "audit",
+    "description": "Fast, free crawler for technical SEO and AI-search checks. Made for people and agents.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-17",
+    "last_commit": "2026-07-18"
+  },
+  {
+    "repo": "squirrelscan/squirrelscan",
+    "category": "audit",
+    "description": "Website audit tool for coding agents. 300+ rules across SEO, speed, security and accessibility.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "seo-skills/seo-audit-skill",
+    "category": "audit",
+    "description": "Command-line SEO audit with 332 rules: Core Web Vitals, security headers, structured data and more.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "devanasolver/ai-seo-toolkit",
+    "category": "audit",
+    "description": "Free CLI: AI-search visibility audit, keyword ideas and Search Console data. No paid keys. (By the maintainer of this list.)",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "houtini-ai/seo-audit",
+    "category": "audit",
+    "description": "MCP server for Claude that merges Search Console, a crawl, DataForSEO and Majestic data into one audit. Some data sources need their own accounts.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "adityaarsharma/sitewalk",
+    "category": "audit",
+    "description": "Self-hosted technical SEO crawler and MCP server. 50+ checks, PDF and CSV reports.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-10"
+  },
+  {
+    "repo": "Houseofmvps/claude-rank",
+    "category": "audit",
+    "description": "Claude Code plugin that finds why AI won't cite your site and fixes the discoverability files. 170+ rules.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-07-08"
+  },
+  {
+    "repo": "mverab/eGEOagents",
+    "category": "audit",
+    "description": "GEO and AEO toolkit for improving content so AI answer engines pick it up. CLI, Claude Code and MCP.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "elmohq/elmo",
+    "category": "track",
+    "description": "Self-hostable platform that tracks how ChatGPT, Claude, Perplexity, Gemini, Copilot, Grok and Google AI Overviews mention your brand.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "danishashko/geo-aeo-tracker",
+    "category": "track",
+    "description": "Local-first dashboard that tracks your brand across 6 AI models.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-09"
+  },
+  {
+    "repo": "oneglanse/oneglanse",
+    "category": "track",
+    "description": "Tracks brand mentions and citations in AI answers by using the real product interfaces. Self-hostable.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-04"
+  },
+  {
+    "repo": "limelit-co/open",
+    "category": "track",
+    "description": "Self-hosted AI visibility tracker. One Go binary with SQLite. Bring your own API keys.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "ansvisor/ansvisor",
+    "category": "track",
+    "description": "Open-source platform to track AI visibility, citations, prompts and competitors across major AI search engines.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "AI2HU/gego",
+    "category": "track",
+    "description": "Tracks how your brand shows up across many LLMs.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-17",
+    "last_commit": "2026-07-23"
+  },
+  {
+    "repo": "AKzar1el/mcp-geo",
+    "category": "track",
+    "description": "Tracks brand citations across seven AI search surfaces. Free to self-host. The author also sells an optional paid audit.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-09-24"
+  },
+  {
+    "repo": "onism1767-creator/potato",
+    "category": "track",
+    "description": "Simple local check of how often a brand is mentioned in Claude's web-search answers. Runs offline in mock mode.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-06-22"
+  },
+  {
+    "repo": "Canonry/canonry",
+    "category": "track",
+    "description": "Agent-first platform for AI SEO (AEO/GEO).",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "databluedev/searchmirror",
+    "category": "track",
+    "description": "Self-hosted rank tracker and AI visibility monitor. Needs your own DataBlue SERP API key.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-01"
+  },
+  {
+    "repo": "thedaviddias/llms-txt-hub",
+    "category": "llms",
+    "description": "Big directory of sites and tools that use the llms.txt standard. Good place to see real examples.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "apify/actor-llmstxt-generator",
+    "category": "llms",
+    "description": "Apify Actor that reads a website and builds an llms.txt file. Runs on the Apify platform, which has its own pricing.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-17",
+    "last_commit": "2026-09-28"
+  },
+  {
+    "repo": "jdillard/sphinx-llms-txt",
+    "category": "llms",
+    "description": "Generates llms.txt for Sphinx documentation sites.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-08-03"
+  },
+  {
+    "repo": "4hse/astro-llms-txt",
+    "category": "llms",
+    "description": "Generates llms.txt for Astro sites.",
+    "license": "none",
+    "verified": "2026-10-17",
+    "last_commit": "2026-04-21"
+  },
+  {
+    "repo": "yazinsai/site-md",
+    "category": "llms",
+    "description": "Next.js helper that serves clean Markdown of your pages to AI agents while people get normal HTML.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-04-21"
+  },
+  {
+    "repo": "dodopayments/dualmark",
+    "category": "llms",
+    "description": "Serves a Markdown copy of each page to AI agents and HTML to humans, chosen by content negotiation.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-17",
+    "last_commit": "2026-09-15"
+  },
+  {
+    "repo": "rubenmarcus/aeo.js",
+    "category": "llms",
+    "description": "Generates llms.txt, robots.txt, sitemap and JSON-LD to make a site easier for AI search to read.",
+    "license": "none",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-06"
+  },
+  {
+    "repo": "AEO-God-Mode/aeo-god-mode",
+    "category": "cms",
+    "description": "Free WordPress plugin: schema, llms.txt, AI crawler controls and citation tracking.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "madeburo/GEO-AI-Woo",
+    "category": "cms",
+    "description": "WordPress and WooCommerce plugin that generates llms.txt, AI crawler rules and metadata.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-17",
+    "last_commit": "2026-03-20"
+  },
+  {
+    "repo": "GitHiteshZope/aigeo",
+    "category": "cms",
+    "description": "GEO package for Laravel to help products appear in AI-generated answers.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-04-14"
+  },
+  {
+    "repo": "AgriciDaniel/claude-seo",
+    "category": "skills",
+    "description": "Big SEO skill for Claude Code: technical SEO, schema, GEO/AEO, llms.txt, local and e-commerce SEO, reports.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-04"
+  },
+  {
+    "repo": "zubair-trabzada/geo-seo-claude",
+    "category": "skills",
+    "description": "Claude Code skill focused on AI search: citability scoring, AI crawler checks, schema and PDF reports.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Bhanunamikaze/Agentic-SEO-Skill",
+    "category": "skills",
+    "description": "SEO analysis skill for Antigravity, Codex and Claude, with 16 sub-skills and helper scripts.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "AminForou/mcp-gsc",
+    "category": "skills",
+    "description": "Connects Google Search Console to Claude through MCP so you can ask questions about your data.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-09-15"
+  },
+  {
+    "repo": "bzsasson/screaming-frog-mcp",
+    "category": "skills",
+    "description": "MCP server that runs Screaming Frog crawls and reads the results. Needs a Screaming Frog install, which has its own licence terms.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Akxan/google-seo-mcp",
+    "category": "skills",
+    "description": "MCP server with 100+ tools: Search Console, GA4, PageSpeed, structured data, llms.txt and AI crawler checks.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "onvoyage-ai/gtm-engineer-skills",
+    "category": "skills",
+    "description": "Claude Code skill that scores a site for AEO and GEO and suggests fixes for your framework.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-11"
+  },
+  {
+    "repo": "Ryze-AI-Adgent/open-seo-mcp-skills",
+    "category": "skills",
+    "description": "Free SEO MCP server and skills for keyword research, audits and AI visibility. The MCP endpoint is hosted by the author.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "leopard627/fire-your-seo-agency",
+    "category": "skills",
+    "description": "Claude Code skill that audits SEO, AEO, GEO and Naver search by itself. README is partly in Korean.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-09-25"
+  },
+  {
+    "repo": "deepakness/google-ai-search-optimization",
+    "category": "skills",
+    "description": "Unofficial agent skill built from Google's guidance on AI Overviews and AI Mode.",
+    "license": "none",
+    "verified": "2026-10-17",
+    "last_commit": "2026-05-16"
+  },
+  {
+    "repo": "Hainrixz/claude-seo-ai",
+    "category": "skills",
+    "description": "Claude Code toolkit with a two-score audit (SEO and AI search) and an opt-in fixer.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-09-07"
+  },
+  {
+    "repo": "every-app/open-seo",
+    "category": "platform",
+    "description": "Open-source alternative to Semrush and Ahrefs.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "SelmiAbderrahim/rankme.fast",
+    "category": "platform",
+    "description": "Self-hosted SEO platform.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-09"
+  },
+  {
+    "repo": "crawlseo/crawlseo",
+    "category": "platform",
+    "description": "Open-source SEO monitoring: Search Console, site crawler and Core Web Vitals in one dashboard.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "CorgiCorner/bisibility",
+    "category": "platform",
+    "description": "Open-source SEO platform: Google rank tracking, keyword research and backlink checks.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "beyondtahir/beyondseo",
+    "category": "platform",
+    "description": "SEO suite with native crawling, SEO/AEO/GEO checks, content and competitor tools. The native engine needs no API keys.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-09-24"
+  },
+  {
+    "repo": "karust/openserp",
+    "category": "platform",
+    "description": "Self-hosted search results API for Google, Bing, DuckDuckGo and others. Useful as a building block for SEO tools.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-09-28"
+  },
+  {
+    "repo": "cxcscmu/AutoGEO",
+    "category": "research",
+    "description": "ICLR 2026 research code that learns what generative engines prefer and rewrites content to match.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-06-14"
+  },
+  {
+    "repo": "AIcling/agentic_geo",
+    "category": "research",
+    "description": "Research code for AgenticGEO, a self-improving system for generative engine optimization.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-17",
+    "last_commit": "2026-08-05"
+  },
+  {
+    "repo": "TraceCohenTech/ai-seo-playbook",
+    "category": "research",
+    "description": "Playbook with scripts and methods from one site's SEO and GEO results. Numbers are the author's own claims.",
+    "license": "MIT",
+    "verified": "2026-10-17",
+    "last_commit": "2026-09-24"
+  },
+  {
+    "repo": "AgriciDaniel/flow",
+    "category": "research",
+    "description": "Documentation playbook for SEO in the AI-search era: 72 docs, prompts and diagrams. CC BY 4.0.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-17",
+    "last_commit": "2026-04-26"
+  },
+  {
+    "repo": "jdevalk/specification.website",
+    "category": "research",
+    "description": "Sourced website spec covering HTML, accessibility, security, SEO and agent-readiness.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "amplifying-ai/awesome-generative-engine-optimization",
+    "category": "lists",
+    "description": "Curated GEO guides, tools and research.",
+    "license": "none",
+    "verified": "2026-10-17",
+    "last_commit": "2026-04-14"
+  },
+  {
+    "repo": "luka2chat/awesome-geo",
+    "category": "lists",
+    "description": "Curated list of GEO resources for ChatGPT, Perplexity, Claude and Google AI Overviews.",
+    "license": "CC0-1.0",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "DavidHuji/Awesome-GEO",
+    "category": "lists",
+    "description": "Awesome list focused on GEO research papers.",
+    "license": "none",
+    "verified": "2026-10-17",
+    "last_commit": "2026-09-24"
+  },
+  {
+    "repo": "discoveredlabs/awesome-aeo-seo",
+    "category": "lists",
+    "description": "Curated AEO and SEO resources for engineers and growth people.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-17",
+    "last_commit": "2026-06-27"
+  },
+  {
+    "repo": "RankSpotAI/awesome-geo-tools",
+    "category": "lists",
+    "description": "GEO and AI visibility tools compared by engines tracked, refresh rate, cost and data export. Includes paid tools.",
+    "license": "CC0-1.0",
+    "verified": "2026-10-17",
+    "last_commit": "2026-09-06"
+  },
+  {
+    "repo": "serpapi/awesome-seo-tools",
+    "category": "lists",
+    "description": "Curated list of SEO tools, from the SerpApi team.",
+    "license": "none",
+    "verified": "2026-10-17",
+    "last_commit": "2026-10-16"
+  }
+]
