@@ -344,6 +344,14 @@
     "last_commit": "2026-09-07"
   },
   {
+    "repo": "zaDojo/seo-geo-mcp",
+    "category": "skills",
+    "description": "Plugin for Claude Code, Codex and Cursor with 12 SEO and GEO skills plus a remote MCP server: Search Console, GA4 and AI visibility tracking in ChatGPT, Gemini, Perplexity and AI Overviews. Needs a zaDojo account; Search Console and GA4 are free, SERP, keyword, rank and AI visibility data use paid credits (by the author).",
+    "license": "MIT",
+    "verified": "2026-11-14",
+    "last_commit": "2026-10-29"
+  },
+  {
     "repo": "every-app/open-seo",
     "category": "platform",
     "description": "Open-source alternative to Semrush and Ahrefs.",
