@@ -478,5 +478,13 @@
     "license": "none",
     "verified": "2026-10-17",
     "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "Visdenda/ai-crawler-directory",
+    "category": "lists",
+    "description": "Open AI crawler directory with robots.txt tokens, user agents, reverse-DNS suffixes and IP-range sources for 69 agents; JSON and CSV under CC BY 4.0. (by the author)",
+    "license": "MIT",
+    "verified": "2026-11-25",
+    "last_commit": "2026-11-15"
   }
 ]

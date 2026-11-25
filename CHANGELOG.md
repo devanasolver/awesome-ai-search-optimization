@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Added Visdenda/ai-crawler-directory (open AI crawler directory, MIT code + CC BY 4.0 data).
 - New banner with logos of AI engines (assets/logos), clickable AIRankWP link, badges and follow buttons.
 
 - Added README banner and social preview image (scripts/make_banner.py).

@@ -135,6 +135,7 @@ Related lists worth a look. This list does not try to replace them.
 - [luka2chat/awesome-geo](https://github.com/luka2chat/awesome-geo) ![stars](https://img.shields.io/github/stars/luka2chat/awesome-geo?style=flat&label=%E2%98%85) - Curated list of GEO resources for ChatGPT, Perplexity, Claude and Google AI Overviews. _(CC0-1.0)_
 - [RankSpotAI/awesome-geo-tools](https://github.com/RankSpotAI/awesome-geo-tools) ![stars](https://img.shields.io/github/stars/RankSpotAI/awesome-geo-tools?style=flat&label=%E2%98%85) - GEO and AI visibility tools compared by engines tracked, refresh rate, cost and data export. Includes paid tools. _(CC0-1.0)_
 - [serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) ![stars](https://img.shields.io/github/stars/serpapi/awesome-seo-tools?style=flat&label=%E2%98%85) - Curated list of SEO tools, from the SerpApi team. _(check repo)_
+- [Visdenda/ai-crawler-directory](https://github.com/Visdenda/ai-crawler-directory) ![stars](https://img.shields.io/github/stars/Visdenda/ai-crawler-directory?style=flat&label=%E2%98%85) - Open AI crawler directory with robots.txt tokens, user agents, reverse-DNS suffixes and IP-range sources for 69 agents; JSON and CSV under CC BY 4.0. (by the author) _(MIT)_
 
 ## How to choose
 
